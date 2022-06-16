@@ -4,7 +4,7 @@ at some point in the future you will need to build a front end website, so your 
 
 ## features to support
 
-- Full CRUD
+### Full CRUD
 
 you'll need to implement the following urls for the project
 
@@ -49,16 +49,16 @@ profile
 /todo/:id
 ```
 
-- URL safety    
+### URL safety    
 make sure to protect the routes that need to be protected (user specific routes)
 
-- Structure
+### Structure
 
 the project needs to use the MVC structure
 
 **make sure to divide the routes into three files**
 
-- schemas
+### schemas
 
 please implement the following data example as a schema in you models
 
