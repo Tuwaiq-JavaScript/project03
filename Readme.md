@@ -27,9 +27,6 @@ you'll need to implement the following urls for the project
 //delete
 /profile
 
-//post
-profile
-
 //get
 /todo/
 
