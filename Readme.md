@@ -49,8 +49,8 @@ profile
 /todo/:id
 ```
 
-- URL safety
-  make sure to protect the routes that need to be protected (user specific routes)
+- URL safety    
+make sure to protect the routes that need to be protected (user specific routes)
 
 - Structure
 
