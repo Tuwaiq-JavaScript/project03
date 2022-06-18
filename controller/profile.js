@@ -1,24 +1,36 @@
 const profiles=require('../model/profile');
+const users=require('../model/user');
+const bcrypt = require('bcrypt');
+const jwt = require('jsonwebtoken');
+let mm;
 module.exports = {
     index: (req, res) => {
-        profiles.find({}).then((data) => {
-        res.json(data);
+      mm=req.body.secret_key;
+      jwt.verify(req.body.token, mm, function(err, decoded) {
+        if(decoded){
+            res.json({"msg":`hello ${decoded.id}`});
+        }else{
+            res.json({"msg":"invalid token"});
+        }
+
       });
     },
     create: (req, res) => {
-        //maype arrays
         profiles.insertMany(req.body).then((data) => {
           profiles.save
       });
     },
     update: (req, res) => {
-        profiles.updateOne(req.params._id, req.body).then((data) => {
+      mm=req.body.user_id;
+        profiles.updateOne({mm}, req.body).then((data) => {
         res.json(data);
       });
     },
     delete: (req, res) => {
-        profiles.deleteone(req.body).then((data) => {
-        res.json(data);
-      });
+      mm=req.body.user_id;   
+       profiles.deleteOne({mm})
+      .then(()=>res.json({"msg":"user deleted"}));
+       
+      
     },
   };

@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "62adbd49bb66c0d9888191ed"
+  },
+  "firstname": "ahemd",
+  "lastname": "ad",
+  "age": 22,
+  "user_id": {
+    "$oid": "62adbbb76bcdc59e3063735e"
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655553353120"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655553353120"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62adbd69bb66c0d9888191ef"
+  },
+  "firstname": "nora",
+  "lastname": "adx",
+  "age": 23,
+  "user_id": {
+    "$oid": "62adbba36bcdc59e3063735a"
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655553385221"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655553385221"
+    }
+  },
+  "__v": 0
+}]

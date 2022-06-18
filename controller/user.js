@@ -11,17 +11,16 @@ module.exports = {
   },
   create: (req, res) => {
     
-    bcrypt.hash(req.body.secret_key, saltRounds, function(err, hash) {
+    
     bcrypt.hash(req.body.password, saltRounds, function(err, hash1)
     {
       users.create({
         username:req.body.username,
-        secret_key:hash,
+        secret_key:req.body.secret_key,
           password:hash1
       })
       .then(()=>res.json({"msg":"user created"}));
   });
-});
 
   },
   login: (req, res) => {

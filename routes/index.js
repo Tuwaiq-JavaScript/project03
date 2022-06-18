@@ -10,6 +10,7 @@ router.post("/users/register", userscontroller.create);
 //user login
 
 router.post('/users/login', userscontroller.login);
+//done
 
 //profile routes
 //profile index
@@ -17,9 +18,9 @@ router.get("/profiles", profilescontroller.index);
 //profile create
 router.post("/profiles/create", profilescontroller.create);
 //profile update
-router.put("/profiles/update/:id", profilescontroller.update);
+router.put("/profiles/update", profilescontroller.update);
 //profile delete
-router.delete("/profiles/delete/:id", profilescontroller.delete);
+router.delete("/profiles/delete", profilescontroller.delete);
 
 //
 
