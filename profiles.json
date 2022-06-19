@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "62ae9c8eb9f3f11adad3b432"
+  },
+  "first_name": "Mohammed",
+  "last_name": "Alharbi",
+  "age": 20,
+  "user_id": {
+    "$oid": "62ae982da3d8a29b62c985c4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655610510612"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655610510612"
+    }
+  },
+  "__v": 0
+}]

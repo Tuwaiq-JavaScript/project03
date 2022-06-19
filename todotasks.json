@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "62ae9db002cd47b14279223d"
+  },
+  "text": "Learn about Python",
+  "Tags": [
+    "Web Development",
+    "Programming Languages"
+  ],
+  "is_complete": true,
+  "user_id": {
+    "$oid": "62ae982da3d8a29b62c985c4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655610800449"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655610800449"
+    }
+  },
+  "__v": 0
+}]
