@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "62ae5fef30afdf954ad415e8"
+  },
+  "text": "Learn about Python",
+  "Tags": [
+    "Web Development",
+    "Programming Languages"
+  ],
+  "User_id": {
+    "$oid": "62ae5f5630afdf954ad415e4"
+  },
+  "is_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655594991521"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655594991521"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae706cbccf8df58e889490"
+  },
+  "text": " Python",
+  "Tags": [
+    "Web Development",
+    "Programming Languages"
+  ],
+  "is_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655599212079"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655599212079"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae7085bccf8df58e889492"
+  },
+  "text": " java",
+  "Tags": [
+    "Web Development",
+    "Programming Languages"
+  ],
+  "is_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655599237879"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655599237879"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae709fbccf8df58e889494"
+  },
+  "text": " read",
+  "Tags": [
+    "Web Development",
+    "Programming Languages"
+  ],
+  "is_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655599263714"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655599263714"
+    }
+  },
+  "__v": 0
+}]
