@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "62aeba10423dfd685f6df34f"
+  },
+  "username": "Mohammed",
+  "secret_key": 67,
+  "password": "$2b$10$dU7Y.N6gV3x/15ttZvxI2Oic8HiC5u4ff5fqCJPWLhRQiA0ygzXay",
+  "role": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aeba37423dfd685f6df351"
+  },
+  "username": "Jood",
+  "secret_key": 28,
+  "password": "$2b$10$e.03M1sBhU8rzsbotiWYCO6YQEQs4DR29bSv7FY3uHWajAXAZYki2",
+  "role": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aeba47423dfd685f6df353"
+  },
+  "username": "Lolo",
+  "secret_key": 26,
+  "password": "$2b$10$xfx9SNRQ14gm8JdjkVSF7ea6b97MdFHYonbl9FducXLxPm7LgiLPy",
+  "role": "admin",
+  "__v": 0
+}]
