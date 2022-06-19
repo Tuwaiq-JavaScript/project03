@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "62ae071b310f18093cbf0721"
+  },
+  "text": "Learn about typescript",
+  "Tags": [
+    "web Development",
+    "Programming Languages"
+  ],
+  "userId": {
+    "$oid": "62aca176900cd1080c88acf1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655572252014"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655573111950"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae63019d3b4d3d0c236399"
+  },
+  "text": "Learn about javascript",
+  "Tags": [
+    "web Development",
+    "Programming Languages"
+  ],
+  "userId": {
+    "$oid": "62aca176900cd1080c88acf1"
+  },
+  "ls_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655595777892"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655595777892"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae63239d3b4d3d0c23639b"
+  },
+  "text": "Learn about kotlin",
+  "Tags": [
+    "App Development",
+    "Programming Languages"
+  ],
+  "userId": {
+    "$oid": "62ac9990a31bb09b55176bf8"
+  },
+  "ls_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655595811122"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655595811122"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae63409d3b4d3d0c23639d"
+  },
+  "text": "Learn about HTML",
+  "Tags": [
+    "wep Development",
+    "Programming Languages"
+  ],
+  "userId": {
+    "$oid": "62aca15a900cd1080c88acef"
+  },
+  "ls_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655595840756"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655595840756"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae63519d3b4d3d0c23639f"
+  },
+  "text": "Learn about CSS",
+  "Tags": [
+    "wep Development",
+    "Programming Languages"
+  ],
+  "userId": {
+    "$oid": "62add6497c361f298c214d34"
+  },
+  "ls_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655595857673"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655595857673"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae636f9d3b4d3d0c2363a1"
+  },
+  "text": "Learn about python",
+  "Tags": [
+    "wep Development",
+    "Programming Languages"
+  ],
+  "userId": {
+    "$oid": "62ae61d07617972027e138a4"
+  },
+  "ls_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655595887892"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655595887892"
+    }
+  },
+  "__v": 0
+}]

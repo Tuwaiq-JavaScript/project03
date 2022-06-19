@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "62ae64179d3b4d3d0c2363a5"
+  },
+  "first_name": "ali",
+  "last_name": "khaled",
+  "age": 25,
+  "userId": {
+    "$oid": "62ac9990a31bb09b55176bf8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655596055893"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655596055893"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae64359d3b4d3d0c2363a7"
+  },
+  "first_name": "omar",
+  "last_name": "saleh",
+  "age": 24,
+  "userId": {
+    "$oid": "62aca15a900cd1080c88acef"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655596085526"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655596085526"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae64499d3b4d3d0c2363a9"
+  },
+  "first_name": "ahmed",
+  "last_name": "saleh",
+  "age": 30,
+  "userId": {
+    "$oid": "62aca176900cd1080c88acf1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655596105048"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655596105048"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae64629d3b4d3d0c2363ab"
+  },
+  "first_name": "salem",
+  "last_name": "saleh",
+  "age": 80,
+  "userId": {
+    "$oid": "62add6497c361f298c214d34"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655596130572"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655596130572"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae64799d3b4d3d0c2363ad"
+  },
+  "first_name": "sara",
+  "last_name": "saleh",
+  "age": 21,
+  "userId": {
+    "$oid": "62ae61d07617972027e138a4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655596153362"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655596153362"
+    }
+  },
+  "__v": 0
+}]
