@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "62aebf2478bc8d409ed88cae"
+  },
+  "text": "Learn aboutw Python",
+  "tags": [],
+  "is_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655619364259"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655619364259"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aebf3e78bc8d409ed88cb0"
+  },
+  "text": "Learn about java",
+  "tags": [],
+  "is_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655619390084"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655619390084"
+    }
+  },
+  "__v": 0
+}]
