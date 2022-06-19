@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "62ad1ab1547bca16c5864c86"
+  },
+  "text": "Learning Python",
+  "Tags": [
+    "Web Development",
+    "Programming Languages",
+    "Blockchain"
+  ],
+  "user_id": {
+    "$oid": "62ad1518db79210ae0007653"
+  },
+  "is_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655511729940"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655555023480"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ad1cb4e929f206020e9865"
+  },
+  "text": "Learn about JavaScripts",
+  "Tags": [
+    "Web Development",
+    "Programming Languages"
+  ],
+  "user_id": {
+    "$oid": "62acda7655baeb5cc7e5646b"
+  },
+  "is_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655512244057"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655512244057"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae06d54ec182b4367d1ce6"
+  },
+  "text": "Learn about C++",
+  "Tags": [
+    "Web Development",
+    "Programming Languages"
+  ],
+  "user_id": {
+    "$oid": "62acd32855baeb5cc7e56469"
+  },
+  "is_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655572181274"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655572181274"
+    }
+  },
+  "__v": 0
+}]
