@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "62ae4f2a745c6805b7e42b12"
+  },
+  "text": "write here",
+  "Tags": [
+    "hi",
+    "hello",
+    "hola"
+  ],
+  "user_id": {
+    "$oid": "62acee522e0663f2ab5baa10"
+  },
+  "is_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655590698388"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655590698388"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae4f84745c6805b7e42b14"
+  },
+  "text": "this is created",
+  "Tags": [
+    "hi",
+    "hello",
+    "hola"
+  ],
+  "user_id": {
+    "$oid": "62acec91335b26a2fe66c950"
+  },
+  "is_complete": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655590788025"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655590788025"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae6691c271b24c306a360a"
+  },
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655596689887"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655596689887"
+    }
+  },
+  "__v": 0
+}]

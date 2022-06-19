@@ -1,0 +1,28 @@
+{
+  "name": "project03",
+  "version": "1.0.0",
+  "description": "at some point in the future you will need to build a front end website, so your project this week is to prepare for this event by building a large CRUD application and fill it with data to try out",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghaidamhm/project03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghaidamhm/project03/issues"
+  },
+  "homepage": "https://github.com/Ghaidamhm/project03#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}

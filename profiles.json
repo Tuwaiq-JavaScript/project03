@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "62adca51f0a40c0220492d15"
+  },
+  "first_name": "faris",
+  "last_name": "tayaar",
+  "age": 10,
+  "user_id": {
+    "$oid": "62acdb0ab3a171198e2ef93b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62adcacff0a40c0220492d17"
+  },
+  "first_name": "mayar",
+  "last_name": "moh",
+  "age": 10,
+  "user_id": {
+    "$oid": "62acec91335b26a2fe66c950"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62adcb48f0a40c0220492d1b"
+  },
+  "first_name": "saleh",
+  "last_name": "moh",
+  "age": 5,
+  "user_id": {
+    "$oid": "62acf327cdd168683e5b66c6"
+  },
+  "__v": 0
+}]
