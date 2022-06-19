@@ -1,0 +1,11 @@
+const mongoose = require('mongoose');
+//const jwt = require('jsonwebtoken');
+const express = require('express');
+const app = express();
+const bcrypt = require('bcrypt');
+const routes = require('./routes/index');
+const PORT = 8000;
+mongoose.connect('mongodb://localhost:27017/project3');
+app.use(express.json());
+app.use('/',routes);
+app.listen(PORT,()=>console.log(`Express running on port: ${PORT}`));
