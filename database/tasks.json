@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "62aebb47423dfd685f6df35d"
+  },
+  "text": "javascript",
+  "Tags": [
+    "Web Development",
+    "Programming Languages"
+  ],
+  "is_complete": true,
+  "user_id": {
+    "$oid": "62aeba10423dfd685f6df34f"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655618375139"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655619627511"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aebb7f423dfd685f6df35f"
+  },
+  "text": "Learn about java",
+  "Tags": [
+    "Programming Languages"
+  ],
+  "is_complete": true,
+  "user_id": {
+    "$oid": "62aeba37423dfd685f6df351"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655618431835"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655618431835"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62aebbc8423dfd685f6df361"
+  },
+  "text": "drink coffe",
+  "Tags": [
+    "from dankin"
+  ],
+  "is_complete": true,
+  "user_id": {
+    "$oid": "62aeba37423dfd685f6df351"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655618504501"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655618504501"
+    }
+  },
+  "__v": 0
+}]
