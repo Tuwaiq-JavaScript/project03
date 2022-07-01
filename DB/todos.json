@@ -1,0 +1,43 @@
+[{
+  "_id": 1,
+  "text": "take a shower",
+  "Tags": [
+    "mmmmm"
+  ],
+  "user_id": {
+    "$oid": "62ae5f876ab6c964e88cf79c"
+  },
+  "is_complete": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655595385830"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655595385830"
+    }
+  },
+  "__v": 0
+},{
+  "_id": 2,
+  "text": "sleep",
+  "Tags": [
+    "mmmmm"
+  ],
+  "user_id": {
+    "$oid": "62ae5f876ab6c964e88cf79c"
+  },
+  "is_complete": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655595410710"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655595410710"
+    }
+  },
+  "__v": 0
+}]
