@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "62ae5fa330afdf954ad415e6"
+  },
+  "first_name": "amal",
+  "last_name": "Alharbi",
+  "age": 20,
+  "User_id": {
+    "$oid": "62ae5f5630afdf954ad415e4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655594915545"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655594915545"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae6fddbccf8df58e88948a"
+  },
+  "first_name": "Mohammed",
+  "last_name": "Alharbi",
+  "age": 21,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655599069442"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655599069442"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae6ff9bccf8df58e88948c"
+  },
+  "first_name": "tala",
+  "last_name": "Alharbi",
+  "age": 44,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655599097686"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655599097686"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ae700ebccf8df58e88948e"
+  },
+  "first_name": "mona",
+  "last_name": "Alharbi",
+  "age": 44,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655599118990"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655599118990"
+    }
+  },
+  "__v": 0
+}]
